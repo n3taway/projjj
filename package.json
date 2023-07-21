@@ -1,6 +1,6 @@
 {
-  "name": "projj",
-  "version": "2.1.0",
+  "name": "projjj",
+  "version": "1.0.0",
   "description": "Manage repository easily.",
   "dependencies": {
     "chalk": "^3.0.0",
@@ -43,7 +43,7 @@
     }
   },
   "bin": {
-    "projj": "bin/projj.js"
+    "projjj": "bin/projj.js"
   },
   "files": [
     "bin",
